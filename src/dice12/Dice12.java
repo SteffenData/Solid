@@ -12,7 +12,7 @@ import java.util.Random;
  * @author Petra
  */
 public class Dice12 {
-  
+    private static final boolean derp = true;
     public int roll_D12(){
        return(12);
    
